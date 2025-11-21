@@ -2,7 +2,7 @@
 
 A lightweight Text-to-Speech server powered by **[Kokoro TTS](https://huggingface.co/hexgrad/Kokoro-82M)**.
 
-## 🚀 Usage
+## Usage
 
 ### Run with `uv`
 
